@@ -1,2 +1,0 @@
-# sentinal1
-LULC
